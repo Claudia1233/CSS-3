@@ -1,0 +1,12 @@
+/* Ejercicio 2: Estilos internos (ahora externos) */
+h1, h2, h3 {
+  color: darkblue;
+  font-size: 1.8em;
+}
+
+p {
+  margin-left: 10%;
+  margin-right: 10%;
+  color: black;
+  text-align: justify;
+}
