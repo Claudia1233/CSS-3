@@ -1,12 +1,13 @@
-/* Ejercicio 2: Estilos internos (ahora externos) */
+/* Estilos externos */
 h1, h2, h3 {
-  color: darkblue;
   font-size: 1.8em;
+  font-family: Arial, sans-serif;
 }
 
 p {
-  margin-left: 10%;
-  margin-right: 10%;
-  color: black;
-  text-align: justify;
+  line-height: 1.6;
+  font-size: 1em;
+  background-color: #f9f9f9;
+  padding: 8px;
+  border-left: 4px solid darkblue;
 }
